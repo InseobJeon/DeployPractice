@@ -1,0 +1,16 @@
+{
+  "name": "pravda",
+  "version": "1.0.0",
+  "description": "practice for deploy",
+  "scripts": {
+    "start": "node app.js"
+  },
+  
+  "main": "app.js",
+  "author": "pravda",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
