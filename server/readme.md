@@ -1,1 +1,0 @@
-Upload only server application files for just test EC2 instance

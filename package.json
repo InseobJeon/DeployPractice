@@ -1,16 +1,12 @@
 {
-  "name": "pravda",
+  "name": "deploy-server",
   "version": "1.0.0",
-  "description": "practice for deploy",
-  "scripts": {
-    "start": "node app.js"
-  },
-  
+  "description": "deploy server to aws",
   "main": "app.js",
+  "repository": "https://github.com/InseobJeon/DeployPractice.git",
   "author": "pravda",
   "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.17.1"
   }
 }
